@@ -1,0 +1,6 @@
+[submodule "submodule-2"]
+	path = submodule-2
+	url = git@github.com:sahil-ppp/submodule-2.git
+[submodule "submodule-1"]
+	path = submodule-1
+	url = git@github.com:sahil-ppp/submodule-1.git
